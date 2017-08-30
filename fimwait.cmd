@@ -6,7 +6,7 @@
 %% Realizar teste cherry-pick
 %%  Ja com o Commit
 %% Usando o smart-git
-%% pelo aplicativo - 1
+%% pelo aplicativo - 1-2
 %% ==================================================
 
 Procedure FimWait()
