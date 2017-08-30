@@ -5,7 +5,7 @@
 %% Data     : 03/02/94
 %% Realizar teste cherry-pick
 %%  Ja com o Commit
-%% Usando o smart-git
+%% Usando o smart-git.
 %% ==================================================
 
 Procedure FimWait()
