@@ -4,6 +4,7 @@
 %% Programa : Fimwait (fimwait.cmd)
 %% Data     : 03/02/94
 %% Realizar teste cherry-pick
+%%  Ja com o Commit
 %% ==================================================
 
 Procedure FimWait()
